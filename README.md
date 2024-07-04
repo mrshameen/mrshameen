@@ -5,13 +5,13 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=25&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=480&height=60&lines=%E2%9A%98+Inspiring+the+intelligence.+Connecting+you+digitally.+%F0%9F%90%9D" alt="Typing SVG" /></a>
   </p>
 <div align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=My+Name+is+Sahan;New+Beginning+Developer;MASTER+MIND" alt="Typing SVG" /></a>   
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=My+Name+is+Shanuwa;New+Beginning+Developer;SHANUWA+MIND" alt="Typing SVG" /></a>   
 </p> 
 <div align="center">
-  <img src="https://github.com/MrMasterOfc.png" alt="Your Profile Picture" width="300" height="300">
+  <img src="https://github.com/mrshameen.png" alt="Your Profile Picture" width="300" height="300">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
-  <img src="https://telegra.ph/file/84897cf26a57081ce3e1e.jpg" alt="Your Profile Picture" width="570" height="300">
+  <img src="https://telegra.ph/file/106bfcfb3296520d3e276.jpg" alt="Your Profile Picture" width="570" height="300">
 
   <br>
 
@@ -38,15 +38,13 @@
   
  <br><br> 
 <p align="center">
-  <a href="https://youtube.com/channel/UCDB6GZMdSfsmPN9gqxxqnMQ"><img title="Youtube Videos" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/MD-Images/yt.png?raw=true" width="180"/></a></div>
+  <a href="https://www.youtube.com/@SL_Shanuwa"><img title="Youtube Videos" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/MD-Images/yt.png?raw=true" width="180"/></a></div>
   
 <p align="center">
-  <a href="https://youtube.com/channel/UCDB6GZMdSfsmPN9gqxxqnMQ?sub_confirmation=1">
+  <a href="https://www.youtube.com/@SL_Shanuwa">
       <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a> 
-    <a href="https://youtube.com/channel/UCDB6GZMdSfsmPN9gqxxqnMQ">
+    <a href="https://www.youtube.com/@SL_Shanuwa">
       <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge.php?label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/></a>
   </p>
 </p>
 <!---
-
-
